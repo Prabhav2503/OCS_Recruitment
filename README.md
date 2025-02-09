@@ -20,24 +20,24 @@ Before running the project, make sure you have the following installed:
 Start the backend server by typing this command: " node server.js "
 Keep this terminal open, as it runs the backend.
 
-3. Running the Frontend
+### 3. Running the Frontend
 Open a new Command Prompt window.
 Navigate to the frontend folder:
 Start the frontend server by typing this command : " npm start"
 A new tab should open in your default browser with the application running.
 
-5. Logging In
+### 5. Logging In
 Use the user_id and password from the provided database to log in.
 
-Hosting Attempt
+### Hosting Attempt
 I attempted to host the project on Vercel, but due to time constraints, I couldn't complete it successfully. Hosting a full-stack application requires proper configuration, which I couldn't accomplish within the given time.
 
-Technologies Used
+### Technologies Used
 Frontend: React.js
 Backend: Node.js
 Package Manager: npm
 
-Future Improvements
+### Future Improvements
 Successfully deploy the project on Vercel or another hosting platform.
 Optimize the frontend and backend for better performance.
 Improve the database handling for scalability.
