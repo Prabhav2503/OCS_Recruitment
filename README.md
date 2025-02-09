@@ -17,7 +17,6 @@ Before running the project, make sure you have the following installed:
 ### 2. Running the Backend  
 1. Open **Command Prompt** (**Win + R → Type `cmd` → Press Enter**).  
 2. Navigate to the **backend** folder:  
-   ```sh
 Start the backend server by typing this command: " node server.js "
 Keep this terminal open, as it runs the backend.
 
