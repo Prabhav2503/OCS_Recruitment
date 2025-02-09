@@ -4,7 +4,7 @@
     align-items: center;
     height: 100vh;
     background-color: #f4f4f4;
-    background-image:url('C:/Users/prabh/OneDrive/Desktop/OCS/ocs_frontend/public/background.png') ;
+    background-image:url(background.png) ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
